@@ -1,2 +1,4 @@
-# render-gallery
-rendering works created with Blender
+#Blender渲染作品集
+##硬表面建模练习
+##室内场景渲染练习
+##室外场景&人物建模练习
